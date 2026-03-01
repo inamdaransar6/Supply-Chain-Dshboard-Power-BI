@@ -99,5 +99,5 @@ defects.
 ## 👤 Author
 
 **Ansar Inamdar**\
-Aspiring Data Analyst \| Power BI Developer\
+Aspiring Data Scientist \| Power BI Developer\
 📍 India
