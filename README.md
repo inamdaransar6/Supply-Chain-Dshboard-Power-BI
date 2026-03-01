@@ -16,10 +16,12 @@ defects.
 ## 🖼 Dashboard Preview
 
 ### 📊 Page 1
-![Dashboard](dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3ca4997-553b-439e-b4e4-497a64b67d2c" />
+
 
 ### 📊 Page 2
-![Dashboard Page 2](dashboard(2).png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0079275a-6080-485d-a2ff-10503c677730" />
+
 
 ------------------------------------------------------------------------
 
