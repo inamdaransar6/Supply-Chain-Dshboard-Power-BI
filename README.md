@@ -14,7 +14,7 @@ defects.
 
 ## 🖼 Dashboard Preview
 
-> 📌 ![alt text](image-6.png)![alt text](image-7.png)
+> 📌 ![alt text](dashboard.png)![alt text](dashboard.png)
 
 ------------------------------------------------------------------------
 
