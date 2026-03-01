@@ -10,9 +10,7 @@ The dashboard enables business stakeholders to monitor KPIs and make
 data-driven decisions to improve operational efficiency and reduce
 defects.
 
-------------------------------------------------------------------------
-> 📌 dashboard.png
-> dashboard(2).png
+-----------------------------------------------------------------------
 ## 🖼 Dashboard Preview
 
 ### 📊 Page 1
