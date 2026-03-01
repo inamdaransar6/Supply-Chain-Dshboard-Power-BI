@@ -11,10 +11,15 @@ data-driven decisions to improve operational efficiency and reduce
 defects.
 
 ------------------------------------------------------------------------
-
+> 📌 dashboard.png
+> dashboard(2).png
 ## 🖼 Dashboard Preview
 
-> 📌 ![alt text](dashboard.png)![alt text](dashboard.png)
+### 📊 Page 1
+![Dashboard](dashboard.png)
+
+### 📊 Page 2
+![Dashboard Page 2](dashboard(2).png)
 
 ------------------------------------------------------------------------
 
